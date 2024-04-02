@@ -1,2 +1,1 @@
-# P
-WhatsApp Link Generator
+# WhatsApp Link Generator
